@@ -1,10 +1,10 @@
 import math
 
-print("Enter YOUR location:")
+print("Enter your location:")
 lat1 = float(input("Latitude: "))
 lon1 = float(input("Longitude: "))
 
-print("\nEnter FRIEND'S location:")
+print("\nEnter friend'S location:")
 lat2 = float(input("Latitude: "))
 lon2 = float(input("Longitude: "))
 
